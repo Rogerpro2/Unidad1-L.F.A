@@ -1,0 +1,39 @@
+head{
+    background-color: #ff9101a1;
+}
+
+header{
+    background-color: #ff9101a1;
+}
+
+body{
+    background-color: #ff9101a1;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+h6{
+    text-align: center;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h4{
+    font-size: 2rem;
+    color: #0501ffec;
+    text-align: center;
+    padding: 2rem;
+}
+
+.yo{
+    width:20rem;
+    height:20rem;
+    border-radius:50%;
+}
+
